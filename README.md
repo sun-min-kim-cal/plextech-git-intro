@@ -3,7 +3,7 @@ This project will help you dip your toes into using Git in a collaborative setti
 
 NOTE: You will be working in pairs to simulate the code collaboration experience. Assign someone to be Person A and the other to be Person B. MAKE SURE that you work side-by-side to see all parts of the Git process.
 
-## Part 0 - Person A only
+### Part 0 - Person A only
 
 1. Visit https://github.com/joonyoo181/plextech-git-intro
 2. On the main page, click the fork button on the upper right hand corner that should take you to the "Create a new fork" page
